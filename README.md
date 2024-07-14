@@ -1,7 +1,6 @@
-# task
-Skyscanner Front-End Software Engineering virtual experience programme on Forage - July 2024
-Completed a job simulation where I built a web application using React as a front-end engineer at Skyscanner.
-Developed a page for picking a travel date using Skyscanner’s open-source Backpack React library.
-Customised my application and ran automated tests to ensure it rendered properly.
-Use our resume guidance here
+🔹 Just completed the Front-End Software Engineering Job Simulation at Skyscanner through the Forage virtual experience program - July 2024!
+🔹 Delighted to have taken part in the Skyscanner Front-End Software Engineering virtual experience on Forage, where I:
+🔸 Crafted a dynamic travel date selection page using React and Skyscanner's Backpack React library, emphasizing elegance and user engagement.
+🔸 Tailored the application to meet stringent performance standards with meticulous customization and automated testing.
+🔸 Eager to apply these refined skills to create innovative solutions in future projects! 🌟
 
